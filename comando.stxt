@@ -1,0 +1,12 @@
+Abra o terminal na pasta o repositório e instale as depedências abaixo
+
+1 -> python.exe -m pip install --upgrade pip */ Atualize o pip/*  
+
+2 -> pip install flask      */instale o flask*/
+
+3 -> pip install requests beautifulsoup4  */instale o beautifulsoup4*/
+
+4 -> python app.py /*Execute este comando para iniciar o Flask*/
+
+Se tudo ocorrer sem erros acesse o link no navegador: http://127.0.0.1:5000/
+

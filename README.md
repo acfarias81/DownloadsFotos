@@ -16,7 +16,23 @@ Este projeto é uma aplicação web em Flask que permite ao usuário buscar e ba
 - Requests
 - BeautifulSoup4
 
-Para instalar as dependências, execute:
+## Para instalar as dependências, execute:
 
 ```bash
 pip install flask requests beautifulsoup4
+pip install -r requirements.txt
+
+## Execute o aplicativo Flask:
+python app.py
+
+## Estrutura do Projeto
+- app.py: Código principal da aplicação Flask.
+- templates/index.html: Página HTML para interface do usuário.
+- static/: Pasta onde podem ser armazenados arquivos estáticos, como CSS para estilização da barra de progresso.
+- imagens_baixadas/: Pasta gerada automaticamente para armazenar as imagens baixadas.
+
+
+Esse `README.md` está formatado para o GitHub e fornece uma visão clara do projeto e de como usá-lo. Edite o link do repositório e o autor conforme necessário.
+https://github.com/acfarias81/DownloadsFotosPy.git
+
+## Desenvolvido por Antonio Farias
